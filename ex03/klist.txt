@@ -1,0 +1,6 @@
+Credentials cache: API:5953F783-58A9-4966-BFF7-E57E4A506C16
+        Principal: aboulhaj@1337.MA
+
+  Issued                Expires               Principal
+Jun 24 07:52:17 2021  Jun 24 17:52:17 2021  krbtgt/1337.MA@1337.MA
+Jun 24 07:52:19 2021  Jun 24 17:52:17 2021  HTTP/iscsi.1337.ma@1337.MA
